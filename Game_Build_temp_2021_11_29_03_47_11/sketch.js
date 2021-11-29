@@ -110,7 +110,7 @@ function level1MouseClicked() {
   function youWin() {
     background(255, 50, 80);
     textSize(80);
-    stroke(255);
+    stroke(254);
     text('YOU WIN', w / 2, h / 2);
 
     textSize(30);
